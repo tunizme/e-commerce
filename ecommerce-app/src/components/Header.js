@@ -9,7 +9,9 @@ const Header = () => {
           <div className="row align-items-center">
             <div className="col-2">
               <h2 className="mb-0">
-                <Link className="text-white">Tunx</Link>
+                <Link to="/" className="text-white">
+                  Tunx
+                </Link>
               </h2>
             </div>
             <div className="col-5">
